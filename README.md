@@ -1,5 +1,5 @@
 
-![Female-Developer](https://github.com/Dharini-MernStack/Dharini-S/assets/76996610/947351b2-08c6-477e-84c0-e263572a85fe)
+![Female-Developer]()
 
 # **Hi 👋, I'm Dharini.S**
 
