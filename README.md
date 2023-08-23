@@ -11,7 +11,7 @@
 
 🚀 I'm a full stack developer...
 
-🌱 I’m currently learning Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System.
+🌱 I’love adventuring into Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System.
 
 ⚡ Ask me about HTML, CSS, Java, Javascript, Reactjs, Nodejs, Expressjs, MongoDB
 
